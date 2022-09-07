@@ -9,4 +9,6 @@
 /cygdrive/f/2022CSDN/start_c/Learn_C/main.c
 stdio.h
 -
+stdlib.h
+-
 
